@@ -1,4 +1,4 @@
-@import url('/landing-page-kpop/assets/reset.css');
+@import url('/assets/reset.css');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 body {
@@ -46,7 +46,7 @@ input {
 
 .naevis {
     background-size: cover;
-    background-image: url('/landing-page-kpop/assets/images/naevis.png');
+    background-image: url('/assets/images/naevis.png');
     width: 1440px;
     height: 900px;
     margin-top: -5.5%;
@@ -134,7 +134,7 @@ input {
 
 .kwangya {
     background-size: cover;
-    background-image: url('/landing-page-kpop/assets/images/background.jpg');
+    background-image: url('/assets/images/background.jpg');
     background-attachment: fixed;
     border-top: 4px solid #654C57;
     border-bottom: 4px solid #654C57;    
