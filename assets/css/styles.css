@@ -134,7 +134,7 @@ input {
 
 .kwangya {
     background-size: cover;
-    background-image: url('./images/background.jpg');
+    background-image: url('assets/images/background.jpg');
     background-attachment: fixed;
     border-top: 4px solid #654C57;
     border-bottom: 4px solid #654C57;    
