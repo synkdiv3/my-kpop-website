@@ -46,7 +46,7 @@ input {
 
 .naevis {
     background-size: cover;
-    background-image: url('assets/images/naevis.png');
+    background-image: url('images/naevis.png');
     width: 1440px;
     height: 900px;
     margin-top: -5.5%;
@@ -134,7 +134,7 @@ input {
 
 .kwangya {
     background-size: cover;
-    background-image: url('assets/images/background.jpg');
+    background-image: url('images/background.jpg');
     background-attachment: fixed;
     border-top: 4px solid #654C57;
     border-bottom: 4px solid #654C57;    
